@@ -1,7 +1,7 @@
-NO textures/stone.xpm
-SO textures/dirt.xpm
-WE textures/oak_planks.xpm
-EA textures/bamboo_planks.xpm
+NO textures/Grey4.xpm
+SO textures/Grey11.xpm
+WE textures/White4.xpm
+EA textures/Blue21.xpm
 F 0, 150, 0
 C 0, 100, 255
 111111111111111
